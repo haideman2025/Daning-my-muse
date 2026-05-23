@@ -1,0 +1,8 @@
+{
+  "name": "V-Life Studio",
+  "description": "Nền tảng sáng tạo phiên bản số (Digital Twin) của bạn. Thiết kế nhân vật ảo, thử nghiệm phong cách thời trang, kiểu tóc và sản xuất nội dung số độc đáo cho mạng xã hội.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
